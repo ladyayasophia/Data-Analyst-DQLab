@@ -1,6 +1,6 @@
 # DQLab
 
-![0214e48c-b2b1-e422-38e4-039835cdc951_cover](https://user-images.githubusercontent.com/86232890/123941106-083d8900-d9c4-11eb-91a0-4f1d2440e97c.jpg)
+![0214e48c-b2b1-e422-38e4-039835cdc951_cover](https://github.com/ladyayasophia/DQLab/blob/0839ce41ef234591354c3745fe331f8ecbb82a9c/Readme/dqlab-logo.jpg)
 
 
 
