@@ -2,6 +2,9 @@
 
 
 ![a55739ed8e0ab82e1e5aebbd3e9a6ec4_100_persen](https://user-images.githubusercontent.com/86232890/124609673-0bd88080-de9a-11eb-9cef-dbaa78a25b2f.png)
+
+
+<img src="https://github.com/ladyayasophia/Data-Analyst-DQLab/blob/main/Readme/dqlab-learning.png" align="center" width="256" height="455">
   
 
 
