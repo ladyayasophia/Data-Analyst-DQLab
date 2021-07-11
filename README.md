@@ -1,16 +1,12 @@
 # [Data Analyst with PYTHON]()
 
-
-![a55739ed8e0ab82e1e5aebbd3e9a6ec4_100_persen](https://user-images.githubusercontent.com/86232890/124609673-0bd88080-de9a-11eb-9cef-dbaa78a25b2f.png)
-
-
-<img src="https://github.com/ladyayasophia/Data-Analyst-DQLab/blob/main/Readme/dqlab-learning.png" align="center" width="256" height="455">
-  
+<p align="center">
+<img src="https://github.com/ladyayasophia/Data-Analyst-DQLab/blob/main/Readme/dqlab-learning.png">
+</p>
 
 
 
-
-
+<p align="justify">
 Data Analyst berperan dalam menghasilkan analisa data serta mempresentasikan insight untuk membantu proses pengambilan keputusan manajerial pada suatu perusahaan. Tipe pemodelan data yang dilakukan oleh Data Analyst beragam mulai dari Exploratory hingga Predictive Modeling menggunakan algoritma machine learning untuk menemukan pola pada data yang diolah.
 
 
@@ -20,8 +16,8 @@ Data Analyst berperan dalam menghasilkan analisa data serta mempresentasikan ins
 
 |               |    TOPIK    |
 |---------------|-------------|
-| ![python4](https://user-images.githubusercontent.com/86232890/125196495-6b60d280-e284-11eb-9b08-00ba5ca86c25.jpg)| ▶️ [PYTHON](https://github.com/ladyayasophia/Data-Analyst-DQLab/tree/main/Python) |
-| ![sql2](https://user-images.githubusercontent.com/86232890/125196512-7d427580-e284-11eb-821e-d91fdaffc5ff.png)     | ▶️ [SQL](https://github.com/ladyayasophia/Data-Analyst-DQLab/tree/main/SQL) |
-| ![project3](https://user-images.githubusercontent.com/86232890/125196550-93e8cc80-e284-11eb-829b-b52bd63b3325.png) | ▶️ [PROJECT](https://github.com/ladyayasophia/Data-Analyst-DQLab/tree/main/Projects) |
+| <img src="https://github.com/ladyayasophia/Data-Analyst-DQLab/blob/main/Readme/python5.png" width="77" height="100"> | ▶️ [PYTHON](https://github.com/ladyayasophia/Data-Analyst-DQLab/tree/main/Python) |
+| <img src="https://github.com/ladyayasophia/Data-Analyst-DQLab/blob/main/Readme/sql2.png" width="77" height="100"> | ▶️ [SQL](https://github.com/ladyayasophia/Data-Analyst-DQLab/tree/main/SQL) |
+| <img src="https://github.com/ladyayasophia/Data-Analyst-DQLab/blob/main/Readme/project3.png" width="77" height="77">  | ▶️ [PROJECT](https://github.com/ladyayasophia/Data-Analyst-DQLab/tree/main/Projects) |
 
 
